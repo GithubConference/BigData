@@ -3,7 +3,7 @@ OCR project
 
 READ_ME
 
-INSIDE MAIN FOLDER (NB: these have been devided into three seperate maps on Github)
+INSIDE MAIN FOLDER (NB: these have been divided into three separate maps on Github)
 
 Maps
 1.	Adv[anced]Im[a]g[e]Seg[mentation]
